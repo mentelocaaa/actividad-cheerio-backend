@@ -14,6 +14,10 @@ const obtenerProductos = async () => {
 
     const $ = cheerio.load(html);
 
+    if ($('.producto').length === 0) {
+        throw new Error('No se encontraron elementos .producto en el HTML');
+    }
+
     const productos = [];
 
     $('.producto').each((i, elemento) => {
