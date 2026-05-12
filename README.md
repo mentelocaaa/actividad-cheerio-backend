@@ -70,10 +70,13 @@ Obtiene productos desde un archivo HTML usando Cheerio.
 GET
 ```
 
-## URL
+## URL PARA PROBAR TODO
 
 ```txt
 http://localhost:3000/scrape
+http://localhost:3000/stats
+http://localhost:3000/buscar?categoria=Refresco
+
 ```
 
 ---
@@ -146,4 +149,4 @@ data/
 
 # Autor
 
-Manteca
+fernando Morales
