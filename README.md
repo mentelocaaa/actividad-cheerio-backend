@@ -21,7 +21,7 @@ Procesar HTML en backend usando Node.js, Express y Cheerio para extraer informac
 ## Clonar repositorio
 
 ```bash
-git clone https://github.com/Cathwe/actividad-cheerio-backend.git
+git clone https://github.com/mentelocaaa/actividad-cheerio-backend.git
 ```
 
 ## Entrar al proyecto
@@ -146,4 +146,4 @@ data/
 
 # Autor
 
-Camila Ávila Salas
+Manteca
