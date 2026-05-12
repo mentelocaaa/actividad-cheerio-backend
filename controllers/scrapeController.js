@@ -81,7 +81,7 @@ const verStats = async (req, res) => {
 
 const buscarProductos = async (req, res) => {
 
-    try {
+    try {  
 
         const categoria = req.query.categoria;
 
